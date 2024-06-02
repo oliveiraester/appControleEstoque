@@ -59,7 +59,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 ### 2. Informações Gerais
   - 2.1 Objetivo
 
-Implementar um sistema de controle estoque.
+Desenvolver um sistema de estoque eficiente para otimizar o gerenciamento dos produtos, reduzir custos, aumentar a lucratividade e impulsionar o crescimento do negócio.
   - 2.2 Escopo Geral
 
   - 2.2.1 Escopo Eespecífico
