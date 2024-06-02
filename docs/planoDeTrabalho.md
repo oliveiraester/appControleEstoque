@@ -59,6 +59,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 ### 2. Informações Gerais
   - 2.1 Objetivo
 
+Implementar um sistema de controle estoque.
   - 2.2 Escopo Geral
 
   - 2.2.1 Escopo Eespecífico
