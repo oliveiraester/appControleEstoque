@@ -11,7 +11,7 @@
 | Versão | Descrição | Autor | Data |
 | :---: | --- | --- | :---: |
 | 1.0   | Planejamento e pesquisa | Alexandre G. Gonçalves | 28/05/2024 |
-| 1.1   | Planejamento do objeto, motivação, justificativa e oportunidade | Luciele I. Menezes| 02/05/2024|
+| 1.1   | Planejamento do objeto, motivação, justificativa e oportunidade. Objetivo | Luciele I. Menezes| 02/05/2024|
 |       |                         |                        |            |
 |       |                         |                        |            |
 |       |                         |                        |            |
