@@ -87,7 +87,7 @@ Desenvolver um sistema de estoque eficiente para otimizar o gerenciamento dos pr
 -  3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
    | Responsabilidades | Profissonais|
    | ----------        |   -----     |
-   |                   |             |
+   | dffg                  |             |
    |                   |             |
    |                   |             |
    |                   |             |
