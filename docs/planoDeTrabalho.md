@@ -21,9 +21,13 @@
 ### 1. Introdução
   - 1.1 Objeto 
 
- Este documento detalha a construção do sistema Meu Estoque Fácil, destacando as seções essenciais que servirão de alicerce para a definição dos requisitos e o desenvolvimento do sistema, tais como objetivo do sistema, visäo geral, requesitos e outros. -  
+ Este documento detalha a construção do sistema Meu Estoque Fácil, destacando as seções essenciais que servirão de alicerce para a definição dos requisitos e o desenvolvimento do sistema, tais como objetivo do sistema, visäo geral, requesitos e outros.   
   - 1.2 Motivação, Justificativa e Oportunidade
-  - 
+
+    
+A ausência de um sistema de estoque eficaz em um estabelecimento comercial pode gerar diversos problemas, como rupturas de estoque, perdas de produtos, descontrole da validade e dificuldade na tomada de decisões. Isso impacta diretamente na lucratividade do negócio, como na satisfação dos clientes e na capacidade de expansão. Implementar um sistema de estoque eficiente é importante para garantir o controle preciso dos produtos, reduzir custos, otimizar processos e impulsionar o crescimento do negócio.
+
+O investimento em um sistema de estoque adequado trata-se de uma decisão estratégica que trará benefícios a longo prazo, proporcionando organização, eficiência e eficácia para o gerenciamento do negócio.
   - 1.3 Caracterização do Projeto
   - 1.3.1 Classe
 
