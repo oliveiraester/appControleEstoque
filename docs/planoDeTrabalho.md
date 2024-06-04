@@ -83,11 +83,11 @@ Desenvolver um sistema de estoque eficiente para otimizar o gerenciamento dos pr
 ### 3. Metodologia do Projeto
 
 -  3.1 Estrutura do projeto
-  * **Gerente de Projeto**
-  * **Equipe de Levantamento de Requisitos**
-  * **Equipe de Desenvolvimento FRONTEND/BACKEND**
-  * **Equipe de Implantação e Testes**
-  * **Equipe de Suporte Técnico**
+    - **Gerente de Projeto**
+    - **Equipe de Levantamento de Requisitos**
+    - **Equipe de Desenvolvimento FRONTEND/BACKEND**
+    - **Equipe de Implantação e Testes**
+    - **Equipe de Suporte Técnico**
 
 -  3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
 
