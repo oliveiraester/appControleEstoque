@@ -83,11 +83,12 @@ Desenvolver um sistema de estoque eficiente para otimizar o gerenciamento dos pr
 ### 3. Metodologia do Projeto
 
 -  3.1 Estrutura do projeto
+  * **Gerente de Projeto**
+  * **Equipe de Levantamento de Requisitos**
+  * **Equipe de Desenvolvimento FRONTEND/BACKEND**
+  * **Equipe de Implantação e Testes**
+  * **Equipe de Suporte Técnico**
 
 -  3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
-   | Responsabilidades | Profissonais|
-   | ----------        |   -----     |
-   |                   |             |
-   |                   |             |
-   |                   |             |
-   |                   |             |
+
+   * **Alexandre Gomes Gonçalves**, tem a responsabilidade de gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.
