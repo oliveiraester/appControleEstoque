@@ -8,15 +8,16 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
 ### João da Silva Nunes - 38 anos
 
 ### QUEM
- * João, é formado em Administração pela Universidade Federal do Amazonas com especialização em Comércio Exterior. É uma pessoa organizada e comprometida com prazos. Sua preocupação maior é com os avanços tecnológicos e que a empresa siga esses avanços na mesma velocidade que eles ocorrem.
+ * João, é formado em Administração pela Universidade Federal do Amazonas com especialização em Comércio Exterior. É uma pessoa organizada e comprometida com prazos. Sua preocupação maior é com os avanços tecnológicos e que a empresa siga esses avanços na mesma velocidade que eles ocorrem. Sua maior motivação é alcançar as metas e objetivos da empresa.
 
 ### CONTEXTO
-  * É maduro, organizado e observador, mantém-se sempre ativo e com seu perfil de liderança, gerencia a sua equipe para obter o melhor rendimento de cada colaborador.
+  * É maduro, organizado e observador, mantém-se sempre ativo e com seu perfil de liderança, gerencia a sua equipe para obter o melhor rendimento de cada colaborador. Sua maior responsabilidade é realizar no final do ano o fechamento do estoque e entregar o balanço anual aos seus superiores.
 
 ### EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
   * Gosta de planilhas;
   * Da e recebe feedbacks com frequência;
   * É atento a novas tecnologias;
+  * Prefere relatórios bem definidos, formatados e objetivos, com gráficos e histogramas.
   * Participa de pequenos cursos de aperfeiçoamento profissional com frequência;
   * Em sua vida pessoal é uma pessoa muito reservada;
   * Gosta de conversar olho no olho, mesmo que remotamente.
