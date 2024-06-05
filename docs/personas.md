@@ -17,14 +17,15 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
   * Gosta de planilhas;
   * Da e recebe feedbacks com frequência;
   * É atento a novas tecnologias;
-  * Prefere relatórios bem definidos, formatados e objetivos, com gráficos e histogramas.
+  * Prefere relatórios bem definidos, formatados e objetivos, com gráficos e histogramas;
   * Participa de pequenos cursos de aperfeiçoamento profissional com frequência;
   * Em sua vida pessoal é uma pessoa muito reservada;
   * Gosta de conversar olho no olho, mesmo que remotamente.
 
 ### PROBLEMAS / NECESSIDADES / DESEJOS
   * O sistema deve fornecer os relatórios personalizados conforme as necessidades solicitadas;
-  * O não cumprimento de prazos o deixa ansioso e preocupado;
+  * Ter uma visão panorâmica do seu estoque, através de relatórios e gráficos é o seu objetivo;
+  * O não cumprimento de prazos o deixa preocupado;
   * Necessita de pequenas reuniões diárias para ficar por dentro do andamento das demandas do setor;
   * Fica ansioso quando convocado para reuniões de balanço do setor.
 
@@ -38,13 +39,13 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
 ## Persona 02 - Operador de Reposição
 <img src="https://img.freepik.com/fotos-gratis/jovem-trabalhando-em-um-armazem_23-2149128346.jpg" alt="Operador de Reposição" width="200"/>
 
-### Carnos Neves Bittencour - 25 anos
+### Carnos Neves Bittencourt - 25 anos
 
 ### QUEM
- * Carlos, é formado técnico em logístia. Recém formado, está em um momento de ascensão profissional, disposto, colaborativo e sempre buscando desenvover da melhor forma as suas atividades. Antenado tecnologicamente, usa e abusa dos sistemas disponíveis. Sempre que possível sugere melhorias e correções nos sistemas utilizados no setor de estoque.
+ * Carlos, é formado Técnico em Logístia. Recém formado, está em um momento de ascensão profissional, disposto, colaborativo e sempre buscando desenvover da melhor forma as suas atividades. Antenado tecnologicamente, usa e abusa dos sistemas disponíveis. Sempre que possível sugere melhorias e correções nos sistemas utilizados no setor de estoque.
 
 ### CONTEXTO
-  * É jovem, ativo, possui personalidade forte e quando recebe uma tarefa vai até o fim. O feedback não é seu forte assim como o gerenciamento de prioridades. Necessita de observação em suas tarefas, mas contudo às executa com sucesso quando solicitado.
+  * É jovem, ativo, possui personalidade forte e quando recebe uma tarefa vai até o fim. O feedback não é seu forte assim como o gerenciamento de prioridades. Necessita de observação em suas tarefas, mas contudo às executa com sucesso quando solicitado. Tem muita facilidade com tecnologias e novos dispositivos.
 
 ### EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
   * Ama tecnologia e inovações;
@@ -55,15 +56,16 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
   * Por ser jovem, necessita de cursos mais específicos de capacitação na área.
 
 ### PROBLEMAS / NECESSIDADES / DESEJOS
-  * O sistema deve fornecer os relatórios personalizados conforme as necessidades solicitadas;
-  * O não cumprimento de prazos o deixa ansioso e preocupado;
-  * Necessita de pequenas reuniões diárias para ficar por dentro do andamento das demandas do setor;
-  * Fica ansioso quando convocado para reuniões de balanço do setor.
+  * Os scanners de códigos de barras são ultrapassados e de difídil usabilidade;
+  * O sistema não é integrado, tendo que fazer upload dos dados lidos pelos scanners;
+  * Armazenar corretamente a localização dos materiais é um objetivo;
+  * Não reporta corretamente seus superiores dos problemas do dia-a-dia.
 
 ### Soluções Existentes
-  * O sistema atual SESTOQUE, não atende as demandas de relatórios;
-  * No sistema atual, operar a movimentação de mercadorias é complexo e confuso;
-  * Algumas funcionalidades como o sistema de perfil de usuário e níveis de acesso, devem ser mantidas;
+  * O sistema atual SESTOQUE, não integra com os leitores de código de barras;
+  * Operar o armazenamento físico é complexo, pois não há campos específicos no sistema atual para armazenar a informação correta;
+  * O sistema de movimentação de materiais funciona muito bem, esta funcionalidade deve ser mantida;
+  * Digitalizar as notas ficais de entrada e saída é necessário para diminuir a burocracia de papeis.
 
 
 
@@ -73,22 +75,26 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
 ### Anna Maria Vasconcelos - 22 anos
 
 ### QUEM
- * Anna, xxx
+ * Anna, estudante de Administração de Empresas, já na reta final do seu curso, quer adquirir experiência e tem ambição de crescer profissionalmente. É seu primeiro emprego e quer dar o seu melhor para contribuir com a empresa. Em seu estágio, já trabalhava no setor administrativo da empresa, assim conhecendo os procedimentos e a cultura organizacional da empresa. Nesta nova oportunidade, ela se dedica a fazer o seu melhor. É uma pessoa disposta, calma e paciente, gosta de estar por dentro de todos os processos, mas tem dificuldade com novas tecnologias.
 
 ### CONTEXTO
-  * É jovem, xxx
+  * Em sua rotina diária, ela recebe as solicitações de materiais do setor de produção e logo cedo organiza a logística de entrega destes materiais conforme a demanda e prioridades. Para isso depende de um relatório claro e limpo das demandas solicitada.
 
 ### EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
-  * xxx
-  * xxx
+  * Administrativamente, tem experiência com planilhas de texto e formatação de documentos;
+  * Utilizava computadores pessoais, mas atualmente usa dispositivos móveis para movimentação de materiais;
+  * Prefere relatórios à dispositivos, mas está se adaptando a nova rotina;
+  * Gosta de sugerir melhorias nos processos que atendam as demandas de todos.
 
 ### PROBLEMAS / NECESSIDADES / DESEJOS
-  * xxx
+  * Como tem dificuldade com novas tecnologias, necessita de pequenos cursos de capacitação;
+  * Gostaria que a aplicação lhe fornecesse a mesma visualização que teria em papel;
+  * Telas em pontos específicos com as solicitações ao setor seriam necessárias e facilitariam o trabalho.
  
 ### Soluções Existentes
-  * xxx
-  * xxx
-  * xxx
+  * O sistema atual, SESTOQUE é complexo, de difícil manuseio e não tem relatórios personalizados;
+  * Os pontos de acesso também são distantes, tornando o trabalho fisicamente cansativo;
+  * Melhorar a conexão Wi-Fi da empresa também é uma necessidade, pois pelo tamanho do setor, o sinal é ruim em determinados pontos.
 
 
 
@@ -98,19 +104,26 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
 ### Marcelo Damasceno Viegas - 52 anos
 
 ### QUEM
- * Marcelo, xxx
+ * Marcelo, formado em Administração com pós graduação em Gestão de Logística, é experiente e maduro. Já com 24 anos na empresa, à 15 é responsável pelo fechamento e balanço no setor de estoque. Carismático, conservador e reservado, gosta de conversar com todos e saber de seus anseios e dificuldades na empresa.
 
 ### CONTEXTO
-  * É jovem, xxx
+  * Por ter muita experiência, passou por diversas mudanças na empresa e acompanha o crescimento do setor que sempre está evoluindo e se adaptando as novas tecnologias. Trabalha no setor desde que se usava ainda planilhas preenchidas a mão para controle de estoque. Conhece muito bem todas as rotinas e é a melhor pessoa a consultar quando ocorre algum problema logístico.
 
 ### EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
-  * xxx
-  * xxx
+  * Trabalha a anos no setor, passou por todas as evoluções e sistemas implantados;
+  * Se adaptou muito bem as novas rotinas e gosta do trabalho automatizado, proporcionado pelos sistemas;
+  * Emite relatórios com frequência para acompanhar o setor, pois é o responsável pelo fechamento e balanço de entradas e saídas;
+  * Prefere planilhas e relatórios que mostrem em números a situação do estoque;
+  * Utiliza muito as reuniões virtuais com seus superiorres, para reportar as situações do dia a dia.
 
 ### PROBLEMAS / NECESSIDADES / DESEJOS
-  * xxx
+  * Necessita que os aplicativos mobile que integram o sistema deem maior ênfase nos relatórios;
+  * Gráficos atuais gerados no sistema, são confusos e nada personalizados;
+  * Como algumas informações devem ser feitas via upload, o sistema não retorna os dados em tempo real;
+  * Gostaria de ter alertas do sistema, que ele fosse "inteligente" a ponto de reportar possíveis problemas logísticos.
  
 ### Soluções Existentes
-  * xxx
-  * xxx
-  * xxx
+  * O sistema atual é defasado, complexo e difícil de usar;
+  * A integração entre estoque e vendas não funiona adequadamente, pois as informações de entrada e saída não estão em tempo real;
+  * O sistema não tem acesso via HTTPS, somente via aplicação própria. Hoje existe tecnologia para integrar o sistema e ter acesso HTTPS;
+  * Integração entre estoque e setor de compras poderia ser fácilmente resolvida com a integração entre os sistemas.
