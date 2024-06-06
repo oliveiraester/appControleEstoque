@@ -61,7 +61,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
 Desenvolver um sistema de estoque eficiente para otimizar o gerenciamento dos produtos, reduzir custos, aumentar a lucratividade e impulsionar o crescimento do negócio.
   - 2.2 Escopo Geral
-
+O sistema de controle de estoque SESTOQUE terá uma atualização para melhorar o sistema, ser mais prático e didático e atender as necessidades dos usuários.
   - 2.2.1 Escopo Eespecífico
 
   - 2.2.2 Escopo Negativo
